@@ -1,1 +1,3 @@
 I am fixing the issues in bug fix branch.
+
+another bug fixed.
