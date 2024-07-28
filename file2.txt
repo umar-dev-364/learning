@@ -1,2 +1,4 @@
 This is Second file in my git learning folder.
 I add text to file2 here and lets see what the status now in git.
+
+add footer section.
